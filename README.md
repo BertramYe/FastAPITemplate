@@ -6,7 +6,7 @@
 > 备注一下，无论是 dev 还是 production 环境，在启动之前，请执行以下命令，配置好对应的 `settings.py` 的项目配置文件
 
 ```bash
-# 复制和重命名当前以下的 settings-template.py 配置文件 
+# 复制和重命名当前以下的 settings_template.py 配置文件 
 $ cp settings_template.py settings.py
 
 ```
