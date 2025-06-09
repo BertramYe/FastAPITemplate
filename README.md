@@ -7,7 +7,7 @@
 
 ```bash
 # 复制和重命名当前以下的 settings_template.py 配置文件 
-$ cp settings_template.py settings.py
+$ cp settings_template.py settings.py # 注意生产环境中这里面的 Debug 参数需要修改为 False
 
 ```
 
