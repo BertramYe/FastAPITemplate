@@ -1,7 +1,7 @@
 
 # 项目安装启动
 
-
+简单说明一下，这是一套快速搭建和启动 FastAPI 项目的一个很好用的项目模板
 
 > 备注一下，无论是 dev 还是 production 环境，在启动之前，请执行以下命令，配置好对应的 `settings.py` 的项目配置文件
 
@@ -10,7 +10,6 @@
 $ cp settings_template.py settings.py
 
 ```
-
 
 ## 1. dev 环境
 
