@@ -1,0 +1,7 @@
+__pycache__
+static
+Log/*
+.env.develop
+.env.production
+settings.py
+test.py
